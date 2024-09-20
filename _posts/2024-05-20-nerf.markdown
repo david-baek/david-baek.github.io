@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Filtering Data to Improve NeRF for Driving Scenes"
+date:  2024-05-20 22:00:00
+image: ./images/nerf_fig.png
+categories: class
+author: "Shiva Sreeram, David D. Baek"
+authors: Shiva Sreeram, <a href="https://david-baek.github.io">David D. Baek</a>
+venue: Advances in Computer Vision
+arxiv: ./images/nerf_report.pdf
+slides: 
+code: 
+---
+We propose a filter-based data-preprocessing strategy for NeRF that enables autonomous driving scene reconstruction with reduced compute time and memory, with the minimal performance loss possible.

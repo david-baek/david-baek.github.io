@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Design of scalable superconducting quantum circuits using flip-chip assembly"
+date:  2022-11-30 22:00:00
+image: ./images/flipchip_fig.png
+categories: research
+author: "Seong Hyeon Park, David Baek, Insung Park, Seungyong Hahn"
+authors: Seong Hyeon Park, <a href="https://david-baek.github.io">David D. Baek</a>, Insung Park, Seungyong Hahn
+venue: IEEE Transactions on Applied Conductivity
+arxiv: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10041996
+slides: 
+code: 
+---
+We present a method for designing highly scalable superconducting quantum circuits using flip-chip assembly and multi-path coupling strategy.

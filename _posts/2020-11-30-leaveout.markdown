@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Automated System for effectively managing leaves of Korean soldiers"
+date:  2020-11-30 22:00:00
+image: ./images/leaveout_fig.png
+categories: class
+author: "Geonyoung Park, David D. Baek"
+authors: Geonyoung Park, <a href="https://david-baek.github.io">David D. Baek</a>
+venue: Korean Military Open Source Online Hackathon
+arxiv: 
+slides: 
+code: 
+---
+We built a web application that automatically manages the leaves of Korean soldiers, using Node.js, Express, MongoDB, Passport.js for backend and Vue, Vuetify and Chart.js for the frontend.

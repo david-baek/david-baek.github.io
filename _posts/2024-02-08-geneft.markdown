@@ -6,7 +6,7 @@ image: ./images/geneft_fig.png
 categories: research
 author: "David D. Baek, Ziming Liu, Max Tegmark"
 authors: <a href="https://david-baek.github.io">David D. Baek</a>, <a href="https://kindxiaoming.github.io/">Ziming Liu</a>, <a href="https://space.mit.edu/home/tegmark/">Max Tegmark</a>
-venue: arXiv:2402.05916
+venue: ICLR workshop on Bridging the Gap between Practice and Theory in Machine Learning
 arxiv: https://arxiv.org/abs/2402.05916
 slides: 
 code: 
