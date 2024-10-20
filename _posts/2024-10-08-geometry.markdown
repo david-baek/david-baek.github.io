@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The Geometry of Concepts: Sparse Autoencoder Feature Structure"
+date:  2024-10-08 22:00:00
+image: ./images/sae-lobe.png
+categories: research
+author: "David Baek, Yuxiao Li, Eric J. Michaud, Joshua Engels, Xiaoqing Sun, Max Tegmark"
+authors: <a href="https://david-baek.github.io">David D. Baek<sup>*</sup></a>, Yuxiao Li<sup>*</sup>, <a href="https://ericjmichaud.com/">Eric J. Michaud<sup>*</sup></a>, <a href="https://www.joshengels.com/">Joshua Engels</a>, Xiaoqing Sun, <a href="https://space.mit.edu/home/tegmark/">Max Tegmark</a>
+venue: arXiv
+arxiv: 
+slides: 
+code: 
+---
+We study geometrical structure of Sparse Autoencoder feature vectors at three scales: (a) "atomic" small-scale, (b) "brain" intermediate-scale, and (c) "galaxy" large-scale.
