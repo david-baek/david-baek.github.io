@@ -9,6 +9,7 @@ authors: <a href="https://david-baek.github.io">David D. Baek<sup>*</sup></a>, Y
 venue: arXiv
 arxiv: http://arxiv.org/abs/2410.19750
 slides: 
-code: 
+code: https://github.com/ejmichaud/feature-geometry
+twitter: https://x.com/dbaek__/status/1851251197744988527
 ---
-We study geometrical structure of Sparse Autoencoder feature vectors at three scales: (a) "atomic" small-scale, (b) "brain" intermediate-scale, and (c) "galaxy" large-scale.
+We study geometrical structure of Sparse Autoencoder feature vectors at three scales: (a) "atomic" small-scale, (b) "brain" intermediate-scale, and (c) "galaxy" large-scale. The post about the paper has received 300K views on twitter.
